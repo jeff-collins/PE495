@@ -12,7 +12,7 @@ import java.util.*;
 
 
 
-public class PE495 {
+public class Euler495 {
 
     static final int MODULO = 1000000007;
     static final int MAX_SLOTS = 100;
